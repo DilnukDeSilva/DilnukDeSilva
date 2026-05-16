@@ -127,10 +127,10 @@ feels like it was made specifically for you. That's the standard I build to.
 ```bash
 $ dilnuk --status
 
-  📦  System Architecture   ......... [████████░░] 80%
-  ☁️  Cloud & DevOps        ......... [███████░░░] 70%
-  🤖  AI / ML Integration   ......... [█████░░░░░] 50%
-  📱  Cross-platform Mobile ......... [█████████░] 90%
+  📦  System Architecture   ......... [███████░░░] 65%
+  ☁️  Cloud & DevOps        ......... [████░░░░░░] 40%
+  🤖  AI / ML Integration   ......... [██░░░░░░░░] 20%
+  📱  Cross-platform Mobile ......... [███████░░░] 75%
   🔐  Backend & APIs        ......... [█████████░] 90%
 ```
 
