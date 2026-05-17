@@ -31,7 +31,7 @@
 
 ```yaml
 name:       Dilnuk De Silva
-location:   Sri Lanka 🇱🇰
+location:   Sri Lanka 
 role:       Software Developer
 focus:      Full-Stack · Mobile · Cloud-Native
 mindset:    Ship it. Iterate. Improve.
