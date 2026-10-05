@@ -19,7 +19,6 @@
 
 <br/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=dilnukdesilva&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/dilnukdesilva)
 [![Twitter](https://img.shields.io/twitter/follow/dilnuk_de_silva?logo=twitter&style=for-the-badge&color=1DA1F2)](https://twitter.com/dilnuk_de_silva)
 [![Email](https://img.shields.io/badge/Email-dilnukdesilva%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dilnukdesilva@gmail.com)
 
